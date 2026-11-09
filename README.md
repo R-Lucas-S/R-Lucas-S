@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**R-Lucas-S/R-Lucas-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Robson Lucas 👋
 
-Here are some ideas to get you started:
+Desenvolvedor com projetos em Python, jogos 2D e ferramentas para análise de dados de jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Projetos em destaque
+
+### 🎮 [Missão: Estoque Perfeito](https://github.com/R-Lucas-S/Miss-o-Estoque-Adidas)
+Jogo 2D em Python sobre rotinas de estoque, com tutorial e uma demo de cinco missões.
+
+### 📊 [Albion Market Analyzer](https://github.com/R-Lucas-S/albion-market-analyzer)
+Projeto em Python para análise de preços do mercado do jogo Albion Online.
+
+## Tecnologias presentes nos projetos
+
+`Python` · `Pygame`
+
+## Contato
+
+Veja os projetos e entre em contato pelo [meu perfil do GitHub](https://github.com/R-Lucas-S).
