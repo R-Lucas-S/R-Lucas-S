@@ -1,23 +1,48 @@
 <div align="center">
 
-# Olá, eu sou Robson Lucas 👋
+# Robson Figueiredo
 
-Desenvolvedor com projetos em Python, jogos 2D e ferramentas para análise de dados de jogos.
+### Estudante de TI · Programador Python
+
+Projetos, código e ideias em construção.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
+## Sobre mim
+
+Sou estudante de TI e programador Python. Neste perfil compartilho projetos que estou desenvolvendo, incluindo um jogo 2D sobre rotinas de estoque e uma ferramenta de análise de preços do Albion Online.
+
 ## Projetos em destaque
 
-### 🎮 [Missão: Estoque Perfeito](https://github.com/R-Lucas-S/Miss-o-Estoque-Adidas)
-Jogo 2D em Python sobre rotinas de estoque, com tutorial e uma demo de cinco missões.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R-Lucas-S/Miss-o-Estoque-Adidas">🎮 Missão: Estoque Perfeito</a></h3>
+      <p>Jogo 2D feito em Python sobre etapas do trabalho em estoque, com tutorial e uma demo de cinco missões.</p>
+      <p><strong>Tecnologias:</strong> Python · Pygame</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/R-Lucas-S/albion-market-analyzer">📊 Albion Market Analyzer</a></h3>
+      <p>Projeto em Python para analisar preços do mercado do jogo Albion Online.</p>
+      <p><strong>Tecnologia:</strong> Python</p>
+    </td>
+  </tr>
+</table>
 
-### 📊 [Albion Market Analyzer](https://github.com/R-Lucas-S/albion-market-analyzer)
-Projeto em Python para análise de preços do mercado do jogo Albion Online.
+## Tecnologias
 
-## Tecnologias presentes nos projetos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=flat-square&logo=python&logoColor=white)
 
-`Python` · `Pygame`
+## Vamos conversar?
 
-## Contato
+Quer trocar uma ideia sobre algum projeto? Você pode abrir uma discussão ou issue no repositório correspondente.
 
-Veja os projetos e entre em contato pelo [meu perfil do GitHub](https://github.com/R-Lucas-S).
+<div align="center">
+
+[Ver meus repositórios](https://github.com/R-Lucas-S?tab=repositories)
+
+</div>
